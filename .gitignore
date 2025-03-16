@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+# Ignoring pycache files
+*.pyc
+
+=======
+# Python bytecode files
+*.pyc
+__pycache__/
+
+# Virtual environment directories
+venv/
+
+# VS code directories
+.vscode/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data folders and docs
+data/
+docs/
+
+# Model checkpoints and outputs
+models/
+*.h5
+*.pth
+*.pkl
+*.npy
+>>>>>>> 5b23bd9 (initial commit)
