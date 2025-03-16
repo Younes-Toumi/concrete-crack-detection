@@ -80,7 +80,7 @@ To donwload the data, it is provided by [1] (refference): https://data.mendeley.
 
 Source: [[Dataset Name & Link]](https://data.mendeley.com/datasets/5y9wdsg2zt/2)
 
-Preprocessing: [Any preprocessing applied]
+Preprocessing example:
 
 <p align="center">
   <img src="assets/image_preprocessing_neg.jpg" alt="image_preprocessing_neg" width="700"/>
@@ -103,8 +103,6 @@ Preprocessing: [Any preprocessing applied]
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📝 Acknowledgments
-
-[Mention datasets, libraries, or references that inspired the project]
 
 [1] Özgenel, Çağlar Fırat (2019), “Concrete Crack Images for Classification”, Mendeley Data, V2, doi: 10.17632/5y9wdsg2zt.2
 
